@@ -59,7 +59,7 @@ Evaluates the results from Steps 4 & 5. Takes the first matching path:
 Condition: Known Bad Senders result is not empty
 
 Step	Action
-Step 9	Send alert email to varenyasawant23@gmail.com with full context
+Step 9	Send alert email to  with full context
 Step 10	Apply "Phishing" label to email
 Step 11	Archive the email
 Step 12	Log to Phishing Analysis Log (verdict: known-bad-skip, confidence: 100)
