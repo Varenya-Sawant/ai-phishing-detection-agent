@@ -116,5 +116,6 @@ Dashboard for monitoring and analytics
 Chrome extension or inbox UI integration
 
 AUTHOR
+
 Varenya Sawant
 Cybersecurity | AI Security Automation | Building practical security systems
